@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">时间表</string>
+    <string name="app_version">版本 1.0</string>
+    <string name="title_activity_main">主页</string>
+
+    <string name="navigation_drawer_open">打开</string>
+    <string name="navigation_drawer_close">关闭</string>
+
+    <string name="action_settings">设置</string>
+    <string name="title_activity_guide">向导</string>
+    <string name="section_format">你好: %1$d</string>
+    <string name="start_now">立即体验</string>
+</resources>
